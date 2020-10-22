@@ -1,0 +1,30 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 795px}
+.u-section-1 .u-text-1 {font-weight: 300; font-size: 3rem; margin: 56px auto 0}
+.u-section-1 .u-text-2 {width: 398px; margin: 20px auto 0}
+.u-section-1 .u-layout-wrap-1 {margin: 30px auto 56px 0}
+.u-section-1 .u-image-1 {background-image: url("images/phone.jpg"); background-position: 50% 50%; min-height: 549px}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-2 {background-image: url("images/web.jpg"); background-position: 50% 50%; min-height: 549px}
+.u-section-1 .u-container-layout-2 {padding: 30px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 78px}
+.u-section-1 .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-1 {min-height: 453px}
+.u-section-1 .u-image-2 {min-height: 453px} }
+
+@media (max-width: 991px){ .u-section-1 .u-image-1 {min-height: 347px}
+.u-section-1 .u-image-2 {min-height: 347px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 2587px}
+.u-section-1 .u-text-1 {font-size: 1.875rem}
+.u-section-1 .u-image-1 {min-height: 781px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-image-2 {min-height: 781px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1701px}
+.u-section-1 .u-text-1 {width: auto}
+.u-section-1 .u-text-2 {margin-left: 0; margin-right: 0; width: 340px}
+.u-section-1 .u-image-1 {min-height: 492px}
+.u-section-1 .u-image-2 {min-height: 492px} }
